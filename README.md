@@ -22,11 +22,3 @@ I'm highly interested in cryptocurrencies, trading and investing as well as prog
 <br/>
 <br/>
 
-<h2 align="center"><samp>Github Stats</samp></h2>
-
-<a>
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=rubby-c&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" />
-</a>
-<a>
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=rubby-c&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&layout=compact" />
-</a>
