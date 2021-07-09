@@ -6,7 +6,7 @@
  </br>
 <p align="center">
 <samp>
-Hi! I'm a linux enthusiasist who likes to code random stuff.
+Hi! I'm a linux enthusiast who likes to code random stuff.
 </samp>
 </br></br>
 <samp>
