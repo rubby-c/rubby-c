@@ -6,11 +6,11 @@
  </br>
 <p align="center">
 <samp>
-Hi! I'm a 17yo being bored all day who likes to code random stuff.
+Hi! I'm a 17yo who's bored all day and likes to code random stuff.
 </samp>
 </br></br>
 <samp>
-I'm highly interested in cryptocurrencies, trading and investing as well as programming.
+I'm highly interested in cryptocurrencies, trading and investing (been doing it for almost a year) as well as programming.
 </samp>
 </br></br>
 </p>
