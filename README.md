@@ -6,17 +6,17 @@
  </br>
 <p align="center">
 <samp>
-Hi! I'm a 17yo who's bored all day and likes to code random stuff.
+I'm a 18 year old guy who likes to code random stuff.
 </samp>
 </br></br>
 <samp>
-I'm highly interested in trading and investing (been doing it for a year and a half) as well as programming.
+Interested in all sorts of technology stuff, trading, as well as programming.
 </samp>
 </br></br>
 </p>
 <samp>
 <p align="center">
-<a href="mailto:sam23business@gmail.com">Email</a> | <a>Discord: rubby#8552</a>
+<a href="mailto:krisdbusiness@gmail.com">Email</a> | <a>Discord: rubby#0623</a>
 </p>
 
 <br/>
