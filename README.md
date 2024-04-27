@@ -6,11 +6,15 @@
  </br>
 <p align="center">
 <samp>
-I'm a 18 year old guy who likes to code random stuff.
+I'm a 19 year old guy who likes to build random stuff.
 </samp>
 </br></br>
 <samp>
-Interested in all sorts of technology stuff, trading, as well as programming.
+Long time programmer tryna make it in the B2B SaaS space.
+</samp>
+
+<samp>
+Currently working on <a href="https://afficone.com">Afficone</a>
 </samp>
 </br></br>
 </p>
